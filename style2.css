@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+}
+
+header{
+    background-color: #004e89;
+}
+
+h1{
+    padding: 20px;
+    color: #ffffff;
+}
+
+nav{
+    background-color: #007f5f;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #a8dadc;
+    padding: 10px;
+    font-size: 20px;
+}
+
+a:hover{
+    color: #a8dadc;
+    background-color: #1b998b;
+    border-radius: 10px;
+}
